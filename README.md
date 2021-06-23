@@ -21,4 +21,17 @@ The corresponding temperature references are as presented.
 
 A very remarkable point can be noted here, with the rise of temperatures, the frequency of oscilations decrease. It can be well explained theortically: Vt Decreases-Vov Decreases-Driving current Decreases-Time to charge/discharge Increases-Frequency Decreases.
 
+ALternate Analysis in LTSPICE:
+
+The Schematic:
+
+![image](https://user-images.githubusercontent.com/59061427/123157848-ad1e0a80-d488-11eb-9e4f-be7458ac596a.png)
+
+The output waveform:
+
+![image](https://user-images.githubusercontent.com/59061427/123157985-d9398b80-d488-11eb-857b-442f280988c5.png)
+
+
+
+
 
